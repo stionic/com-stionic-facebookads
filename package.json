@@ -1,0 +1,31 @@
+{
+  "name": "com-stionic-facebookads",
+  "version": "1.0.0",
+  "description": "Cordova Plugin for Facebook AudienceNetwork Ads",
+  "cordova": {
+    "id": "com-stionic-facebookads",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stionic/com-stionic-facebookads.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stionic/com-stionic-facebookads/issues"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "ads",
+    "facebook",
+    "audiencenetwork"
+  ],
+  "author": {
+    "name": "Stionic",
+    "email": "admin@stionic.com"
+  },
+  "license": "MIT"
+}
