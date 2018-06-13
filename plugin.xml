@@ -17,7 +17,7 @@
     <js-module src="www/FacebookAds.js" name="FacebookAds">
         <clobbers target="window.FacebookAds" />
     </js-module>
-    <dependency id="cordova-facebook-audnet-sdk" version="~4.26.2" />
+    <dependency id="com-stionic-facebookads-sdk" version="^1.0.0" />
     <!-- android -->
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
