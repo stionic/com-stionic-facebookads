@@ -1,6 +1,6 @@
 {
   "name": "com-stionic-facebookads",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cordova Plugin for Facebook AudienceNetwork Ads",
   "cordova": {
     "id": "com-stionic-facebookads",
