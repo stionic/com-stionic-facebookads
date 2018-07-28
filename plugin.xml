@@ -34,8 +34,6 @@
             <uses-permission android:name="android.permission.INTERNET" />
             <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
         </config-file>
-        <preference name="ANDROID_SUPPORT_VERSION" default="26.+"/>
-        <framework src="com.android.support:support-v4:$ANDROID_SUPPORT_VERSION" />
     </platform>
     <!-- ios -->
     <platform name="ios">
